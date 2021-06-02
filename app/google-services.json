@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321337789817",
+    "project_id": "pruebabetterfly",
+    "storage_bucket": "pruebabetterfly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321337789817:android:9effc509a50815a67b33a8",
+        "android_client_info": {
+          "package_name": "com.betterfly.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321337789817-utdac2efttburs0t20fpig78ivvqouc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betterfly.prueba",
+            "certificate_hash": "ca5d574d48f63107c86055327c377b005668a82c"
+          }
+        },
+        {
+          "client_id": "321337789817-nhjtqr7efle7pgaio6kq3kdl8c6651rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfAOIX-aLioXfiDDe0cuKPqTaLbTehW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321337789817-nhjtqr7efle7pgaio6kq3kdl8c6651rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

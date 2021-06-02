@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Betterfly</string>
+    <string name="list_title">Listado de películas</string>
+
+    <string name="str_login">INICIAR SESIÓN</string>
+    <string name="str_login_user">Ingrese su usuario</string>
+    <string name="str_login_pass">Ingrese su contraseña</string>
+    <string name="str_cerrar_sesion">Cerrar sesión</string>
+
+    <string name="str_btn_ok">Ok</string>
+    <string name="str_btn_cancelar">Cancelar</string>
+    <string name="str_error_login">Error de Autenticación</string>
+    <string name="str_message_login">Usuario o clave incorrecto o el usuario no existe. ¿Desea crearlo?</string>
+    <string name="str_error_validacion">Error de validación</string>
+    <string name="str_message_validacion">Por favor llene los campos requeridos.</string>
+</resources>
